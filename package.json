@@ -15,7 +15,7 @@
     "dotenv": "^10.0.0",
     "ejs": "~3.1.10",
     "express": "~5.2.0",
-    "http-errors": "~1.6.3",
+    "http-errors": "~1.8.1",
     "morgan": "~1.10.1"
   },
   "devDependencies": {
