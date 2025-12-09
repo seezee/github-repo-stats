@@ -8,7 +8,7 @@
     "watch": "nodemon ./bin/www"
   },
   "dependencies": {
-    "@vercel/node": "^1.12.1",
+    "@vercel/node": "^1.15.4",
     "axios": "^1.13.2",
     "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
