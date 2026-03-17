@@ -13,7 +13,7 @@
     "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
     "dotenv": "^10.0.0",
-    "ejs": "~3.1.10",
+    "ejs": "~5.0.1",
     "express": "~5.2.1",
     "http-errors": "~1.8.1",
     "morgan": "~1.10.1"
